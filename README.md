@@ -13,6 +13,7 @@ A full-featured **Inventory Management System** built using **Angular**, **Flask
 - **Frontend**: Angular
 - **Backend**: Flask (REST API)
 - **Database**: Microsoft SQL Server (MSSQL)
+- **Real-time Communication**: WebSockets via Flask-SocketIO
 - **Auth**: JWT & bcrypt
 - **Monitoring**: Prometheus + Grafana
 - **DevOps**: Docker, GitHub Actions (CI/CD), Microsoft Azure
