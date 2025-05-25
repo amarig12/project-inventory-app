@@ -2,7 +2,7 @@
 
 A full-featured **Inventory Management System** built using **Angular**, **Flask**, and **MSSQL**, designed with scalability and security in mind. This system supports essential inventory operations across multiple locations, secure multi-organization data segregation, and robust monitoring with Grafana and Prometheus.
 
-> 🚀 **Deployed to Microsoft Azure in Docker containers with GitHub Actions for CI/CD**
+> 🚀 **Deployed to Microsoft Azure Web App in Docker container using GitHub Actions for CI/CD**
 
 📁 **Private repository** — This public repo exists to showcase the project to recruiters. Code access available upon request.
 
@@ -37,22 +37,23 @@ A full-featured **Inventory Management System** built using **Angular**, **Flask
 
 ## 🚀 Deployment Architecture
 
-- Application runs inside a Docker container on Microsoft Azure.
-- MSSQL hosted in Microsoft Azure.
+- Application runs inside a Docker container on Microsoft Azure Web App.
+- MSSQL hosted in Microsoft Azure SQL Database.
+- Images and file uploads stored in Microsoft Azure Blob Storage
 - GitHub Actions for CI/CD pipeline.
 - Prometheus and Grafana are configured to monitor system health and usage metrics.
 
 ---
 
-## 📸 Screenshots
+## Instructions to Register
 
-> _Coming soon_ — Live demo screenshots and Grafana dashboard preview.
+When on the website, create an account and enter **1** as the Organization Number.
 
 ---
 
 ## 🔗 Project Link
 
-[Live link to be added](https://github.com/yourusername/inventory-app) <!-- Replace with actual link -->
+[Live link to Project](https://amari-gordon-inventory-app-bqcjehh5gze8g9hm.eastus-01.azurewebsites.net/) 
 
 > 📁 _Note: This is a **public showcase** repository for recruiters and potential employers. The full codebase is stored in a private repository._
 
