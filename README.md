@@ -53,7 +53,9 @@ When on the website, create an account and enter **1** as the Organization Numbe
 
 ## 🔗 Project Link
 
-[Live link to Project](https://amari-gordon-inventory-app-bqcjehh5gze8g9hm.eastus-01.azurewebsites.net/) 
+[Live link to Project](https://amari-gordon-inventoryapp-gmhjckdtabgsgbhg.centralus-01.azurewebsites.net) 
+
+https://amari-gordon-inventoryapp-gmhjckdtabgsgbhg.centralus-01.azurewebsites.net
 
 > 📁 _Note: This is a **public showcase** repository for recruiters and potential employers. The full codebase is stored in a private repository._
 
